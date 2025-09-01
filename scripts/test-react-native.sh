@@ -39,3 +39,4 @@ echo "To run the React Native app:"
 echo "1. cd react-native-example"
 echo "2. npm run ios     # for iOS"
 echo "3. npm run android # for Android"
+

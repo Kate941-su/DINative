@@ -107,3 +107,4 @@ describe('React Native DI Example App', () => {
     expect(getByText(/This example demonstrates/)).toBeTruthy();
   });
 });
+
